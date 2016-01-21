@@ -33,6 +33,8 @@ public class Main {
 		result = operand1 / operand2;
 		System.out.println("The result of dividing operand1 and operand2 is: " + result);
 		
+		System.out.println("***********************************************************");
+		
 		//*********************************************************
 		//Using a class that can be created and used from anywhere.
 		//*********************************************************
